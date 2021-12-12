@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAnot", "DataAnot\DataAnot.csproj", "{59EB0534-D1D4-4484-BFF4-50ED81CECCB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59EB0534-D1D4-4484-BFF4-50ED81CECCB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59EB0534-D1D4-4484-BFF4-50ED81CECCB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59EB0534-D1D4-4484-BFF4-50ED81CECCB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59EB0534-D1D4-4484-BFF4-50ED81CECCB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7896FB10-5F0C-4290-8597-400D33497CD6}
+	EndGlobalSection
+EndGlobal
